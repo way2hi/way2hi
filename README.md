@@ -4,4 +4,4 @@
 - discord @ way2hi
 
 ### skills
-none.
+none
